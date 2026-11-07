@@ -9,7 +9,7 @@ The Lunduke Computer Operating System, after dark. Deep navy, white neon glow, t
 Copy, paste, done:
 
 ```bash
-omarchy-theme-install https://github.com/jimaegirson/omarchy-theme-LCOS-dark/
+omarchy-theme-install https://github.com/jimaegirson/omarchy-lcos-dark-theme/
 ```
 
 Or from the Omarchy menu: `Super + Alt + Space` > Install > Style > Theme, then paste the repo URL.
@@ -17,7 +17,7 @@ Or from the Omarchy menu: `Super + Alt + Space` > Install > Style > Theme, then 
 ### Manual install
 
 ```bash
-git clone https://github.com/jimaegirson/omarchy-theme-LCOS-dark omarchy-theme-set lcos-dark
+git clone https://github.com/jimaegirson/omarchy-lcos-dark-theme omarchy-theme-set lcos-dark
 ```
 
 ## Both variants
