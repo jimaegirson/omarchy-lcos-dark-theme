@@ -1,0 +1,27 @@
+# LCOS Dark — Lunduke Computer Operating System (dark variant)
+# Sampled from the real LCOS desktop: deep navy, white neon glow,
+# 90s title-bar blue, Xfce tan folders. Modern tech. 90s UI.
+
+accent = "#86abd9"
+cursor = "#ffffff"
+foreground = "#e8eef7"
+background = "#0a1a31"
+selection_foreground = "#ffffff"
+selection_background = "#3359d9"
+
+color0  = "#0f203c"
+color1  = "#c8283a"
+color2  = "#2f9e44"
+color3  = "#ae8f5e"
+color4  = "#3359d9"
+color5  = "#6b3fa0"
+color6  = "#4fb3d9"
+color7  = "#c9d3e0"
+color8  = "#3b536f"
+color9  = "#ff5a6a"
+color10 = "#4cc26b"
+color11 = "#e0c38a"
+color12 = "#33a4ff"
+color13 = "#a47fd6"
+color14 = "#7fd4ff"
+color15 = "#ffffff"
